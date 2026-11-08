@@ -2,7 +2,7 @@
 
 Create scripted chat-story videos with staged devices, media, timing and voiceover.
 
-[Official product website](https://glance-studio.arte-soft.com/) · [App Store listing](https://apps.apple.com/app/id6774151809)
+[Official product website](https://glance-studio.arte-soft.com/) · [App Store listing](https://apps.apple.com/app/id6774151809) · [Side-by-side comparisons](https://glance-studio.arte-soft.com/compare/) · [Guides & workflows](https://glance-studio.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://glance-studio.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Who this is for
 
