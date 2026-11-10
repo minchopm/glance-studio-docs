@@ -2,7 +2,27 @@
 
 Create scripted chat-story videos with staged devices, media, timing and voiceover.
 
-[Official product website](https://glance-studio.arte-soft.com/) · [App Store listing](https://apps.apple.com/us/app/glance-studio/id6774151809?pt=127093297&ct=github_glance_studio&mt=8) · [Side-by-side comparisons](https://glance-studio.arte-soft.com/compare/) · [Guides & workflows](https://glance-studio.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://glance-studio.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official website](https://glance-studio.arte-soft.com/) · [Arte Soft portal](https://glance-studio.arte-soft.com/articles/) · [App Store](https://apps.apple.com/us/app/glance-studio/id6774151809) · [Comparisons](https://glance-studio.arte-soft.com/compare/) · [Guides](https://glance-studio.arte-soft.com/articles/) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://glance-studio.arte-soft.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
+
+## Official Web Portals, Interactive Tools & Comparison Hubs
+
+| Resource | Verified Canonical Link |
+| --- | --- |
+| **Primary Canonical Domain** | [https://glance-studio.arte-soft.com/](https://glance-studio.arte-soft.com/) |
+| **Arte Soft Technical Portal** | [https://glance-studio.arte-soft.com/articles/](https://glance-studio.arte-soft.com/articles/) |
+| **Apple App Store** | [https://apps.apple.com/us/app/glance-studio/id6774151809](https://apps.apple.com/us/app/glance-studio/id6774151809) |
+| **Mac App Store (Desktop)** | [https://apps.apple.com/us/app/glance-studio-desktop/id6775389610](https://apps.apple.com/us/app/glance-studio-desktop/id6775389610) |
+| **Side-by-Side Comparisons (`/compare/`)** | [https://glance-studio.arte-soft.com/compare/](https://glance-studio.arte-soft.com/compare/) |
+| **Guides & Workflows** | [https://glance-studio.arte-soft.com/articles/](https://glance-studio.arte-soft.com/articles/) |
+| **LLM Full Reference (`llms-full.txt`)** | [https://glance-studio.arte-soft.com/llms-full.txt](https://glance-studio.arte-soft.com/llms-full.txt) |
+| **GitHub Pages Documentation Mirror** | [https://minchopm.github.io/glance-studio-docs/](https://minchopm.github.io/glance-studio-docs/) |
+| **Arte Soft Knowledge Graph Hub** | [https://minchopm.github.io/arte-soft-ecosystem/](https://minchopm.github.io/arte-soft-ecosystem/) · [https://arte-soft.com/](https://arte-soft.com/) |
+
+### Verified 2026 Capabilities
+
+- Decoupled video frame renderer and content-addressed Maya1 neural speech synthesis cache for rapid timing edits.
+- 4 clean de-branded chat aesthetics staged either full-screen flat or mapped onto an animated 3D iPhone canvas (HEVC/H.264, 1080x1920 @ 30fps).
+- Free on iOS (ad-supported, zero watermark) and $4.99 one-time purchase on Mac (Glance Studio Desktop, zero subscriptions).
 
 ## Who this is for
 
@@ -36,4 +56,4 @@ Published by the product developer as first-party user documentation. It covers 
 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
-Documentation review: **2026-11-04**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
