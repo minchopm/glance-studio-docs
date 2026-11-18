@@ -57,3 +57,9 @@ Published by the product developer as first-party user documentation. It covers 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
 Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+
+## Free Browser Creator Tools & 2026 Vertical Video Library
+
+- **12 Free Zero-Upload Browser Tools (Canvas Card Beautifier, 9:16 Safe-Zone Checker, Script Timer):** https://glance-studio.arte-soft.com/tools/
+- **95 Vertical Chat-Video, 3D Framing & Creator Guides:** https://glance-studio.arte-soft.com/articles/
+- **200 Video & Mockup App Comparisons:** https://glance-studio.arte-soft.com/compare/
